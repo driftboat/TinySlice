@@ -1,0 +1,32 @@
+{
+    "name": "RuntimeGeometry3D",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Core",
+        "Unity.Burst",
+        "Unity.Entities",
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Transforms",
+        "Unity.Collections",
+        "Unity.Tiny.Core",
+        "Unity.Tiny.Rendering",
+        "Unity.Tiny.Image2D",
+        "Unity.Tiny.GLFW",
+        "Unity.Tiny.Web",
+        "Unity.Tiny.Input",
+        "Unity.Tiny.Rendering.Native",
+        "Unity.Tiny.RendererExtras",
+        "Unity.Entities.Runtime",
+        "Unity.Scenes"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

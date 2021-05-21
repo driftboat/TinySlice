@@ -1,0 +1,30 @@
+{
+    "Dependencies": [
+        "GlobalObjectId_V1-1-09f53f67068e26e45bb9f9f518b6f419-93214019566545601-0"
+    ],
+    "Components": [
+        {
+            "$type": "Unity.Build.DotsRuntime.DotsRuntimeBuildProfile, Unity.Build.DotsRuntime",
+            "Target": "windows-dotnet",
+            "Configuration": 2,
+            "UseNewPipeline": false,
+            "PipelineConstructor": null
+        },
+        {
+            "$type": "Unity.Tiny.Rendering.Settings.TinyRenderingSettings, Unity.Tiny.Rendering.Authoring",
+            "WindowSize": {
+                "x": 1920,
+                "y": 1080
+            },
+            "RenderResolution": {
+                "x": 1920,
+                "y": 1080
+            },
+            "RenderGraphMode": 1,
+            "MaxResolution": 2048,
+            "AutoResizeFrame": true,
+            "DisableVsync": false,
+            "GPUSkinning": false
+        }
+    ]
+}
